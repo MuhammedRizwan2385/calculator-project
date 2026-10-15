@@ -36,11 +36,11 @@ calculator/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MuhammedRizwan2385/calculator-project.git
    ```
 2. Open the project folder:
    ```bash
-   cd your-repo-name
+   cd calculator-project
    ```
 3. Open `calculator.html` in your browser. No installation or build step needed.
 
